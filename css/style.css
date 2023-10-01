@@ -267,6 +267,9 @@ tr td{
         font-size: 1.5rem;
         padding-top: 2rem;
     }
+    .newsletterMain form{
+        height: 500px;
+    }
 }
 @media screen and (max-width:460px){
     article{
